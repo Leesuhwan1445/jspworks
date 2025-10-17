@@ -27,7 +27,7 @@
 		</select>
 		<button type = "submit">추가</button>
 	</form>
-	<button type = "submit">장바구니</button>
+	<button href = "http://localhost:8080/jweb01/cart/cart.jsp">장바구니</button>
 	</section>
 </body>
 </html>
